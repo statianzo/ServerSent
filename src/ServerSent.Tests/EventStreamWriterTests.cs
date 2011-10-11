@@ -2,7 +2,6 @@ using System;
 using Xunit;
 using System.IO;
 using System.Text;
-using Moq;
 
 namespace ServerSent.Tests
 {
